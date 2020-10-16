@@ -5,4 +5,4 @@
 |:-------------:|:----------------------------------:|:---------:|
 |  Device Tree  |       Need to add udev rules       |           |
 |  Vendor Blobs |                Done                | Need Test |
-| Kernel Source |          Work In Progress          |           |
+| Kernel Source |                Done                | Need Test |
